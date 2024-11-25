@@ -292,7 +292,7 @@
     \end{highlights}
         \end{onecolentry}
 
-    \section{Technologies}
+    \section{Technical Skills}
     % \vspace{0.2 cm}
 
 \begin{onecolentry}
