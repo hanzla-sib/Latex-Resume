@@ -189,7 +189,7 @@
             
             
         \textit{October 2024 – current}}
-            \textbf{Universität Passau, Passau Germany}
+            \textbf{Universität Passau, Germany}
 
             \textit{MS in Computer Science}
         \end{twocolentry}
@@ -200,7 +200,7 @@
             
             
         \textit{August 2019 – June 2023}}
-            \textbf{National University of Computer And Emerging Sciences}
+            \textbf{National University of Computer And Emerging Sciences, Islamabad Pakistan}
         
             \textit{BS in Computer Science}
         \end{twocolentry}
@@ -210,10 +210,6 @@
 
     
     \section{Professional Experience}
-
-
-
-        
         \begin{twocolentry}{
         \textit{Islamabad, Pakistan}    
             
