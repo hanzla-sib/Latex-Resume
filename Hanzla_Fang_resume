@@ -1,0 +1,113 @@
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.4 in,top=0.1in,right=0.4 in,bottom=0.1in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{2em}\rlap{#1}}
+\name{Hanzla Sibghat} % Your name
+% You can merge both of these into a single line, if you do not have a website.
+\address{+49(170) 880-8208 \\ Munich, Germany} 
+\address{\href{mailto:hanzlasib24@gmail.com}{hanzlasib24@gmail.com} \\ \href{https://www.linkedin.com/in/hanzlasibghat}{linkedin-hanzla-sibghat} \\ \href{https://hanzla-portfolio.vercel.app/}{Portfolio-Hanzla}}  %
+
+\begin{document}
+
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+% {\bf Master of Computer Science}, Universitat Passau, Germany \hfill {2024 - \textbf{Expected} 2026}\\
+% % \textbf{Relevant Coursework}: Search-Based Software Engineering, 	Reverse- and Reengineering and Mining Repositories.
+% \newline
+% {\bf Bachelor of Computer Science}, National University of Computer And Emerging Sciences, Pakistan \hfill {\textbf{2019 - 2023}}
+{\bf Master of Computer Science}, Universitat Passau, Germany \hfill {2024 - \textbf{Expected} 2026}\\
+% \vspace{-0.2em} % Reduces the gap
+{\bf Bachelor of Computer Science},\newline National University of Computer And Emerging Sciences, Pakistan \hfill {\textbf{2019 - 2023}}
+
+
+
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% TECHINICAL STRENGTHS	
+%----------------------------------------------------------------------------------------
+\begin{rSection}{TECHNICAL SKILLS}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{2ex}} l }
+Languages & HTML, CSS, JavaScript, TypeScript
+\\
+Framework & Next.js, NestJS, Express.js, Bootstrap / Tailwind, Material-UI\\
+Libraries & React, Redux Toolkit, React Query, React Hook Form, JSON Web Tokens, SCSS\\
+Developer Tools & npm/Yarn, GitHub, Git, Postman, Webpack, Babel\\
+Databases & PostgreSQL, MySql, MongoDB, Redis \\
+Soft SKills & Team collaboration, problem-solving skills, cross-cultural communication, English C1, German A1
+\end{tabular}\\
+\end{rSection}
+
+\begin{rSection}{Professional EXPERIENCE}
+
+\textbf{Software Engineer} \hfill Feb 2024 - July 2024\\
+National Database and Registration Authority (NADRA) \hfill \textit{Islamabad, Pakistan}
+ \begin{itemize}
+    \itemsep -5pt {} 
+    \item Minimized manual intervention by 45\% by implementing IoT-integrated kiosks using NestJs and React.js.
+   \item Enhanced citizen services and system performance through web application development for NADRA.
+
+
+\item Cut service processing times by 40\% through optimization with React.js, Next.js, and NestJS.
+\item Achieved zero data discrepancies by improving validation processes with React Hook Form, Yup, and NestJS.
+\item Boosted system uptime by 20\% through robust error-handling middleware and API enhancements.
+\item Streamlined codebase by 35\% by refactoring legacy code for better scalability.
+
+
+    
+ \end{itemize}
+ 
+\textbf{Software Engineer} \hfill July 2023 - Feb 2024\\
+PLC Group \hfill \textit{Ontario, Canada (Remote)}
+ \begin{itemize}
+    \itemsep -3pt {} 
+    \item Designed scalable GraphQL APIs with TypeScript, reducing query complexity by 35\%.
+\item Optimized real-time data fetching with React Query and GraphQL, cutting refresh intervals by 50\%.
+\item Attained 95\% code coverage by creating unit and integration tests with Jest and React Testing Library.
+\item embellish backend performance with Redis caching and optimized state management using Redux Toolkit.
+\item Improved UI/UX for telecom automation tools, reducing API latency by 40\% through cross-team collaboration.
+
+ \end{itemize}
+
+ \textbf{React Developer} \hfill January 2023 - June 2023\\
+Zuntech Technologies \hfill \textit{Islamabad, Pakistan (Part-time)}
+ \begin{itemize}
+    \itemsep -3pt {} 
+    \item developed dynamic UI components with React.js, TypeScript, and SCSS, adhering to modern web standards.
+\item Integrated components with RESTful APIs and managed version control using Git/GitHub.
+
+\item Managed project workflows on Jira and streamlined communication via Slack for timely milestone delivery.
+
+ \end{itemize}
+
+\end{rSection} 
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Professional PROJECTS}
+\vspace{.25em}
+
+\textbf {KIOSK-NADRA.} \raggedright Developed a secure self-service kiosk system with biometric fingerprint and iris capture to automate ID renewals, reducing manual assistance by \textbf{45\%} and queue lengths by \textbf{30\%}, significantly improving \textbf{operational efficiency}.
+
+\textbf {One App (National Identity System).}\raggedright Designed and implemented a scalable platform for online national ID applications, reducing processing times by \textbf{40\%} and boosting success rates by \textbf{30\%}, improving \textbf{accessibility} and \textbf{efficiency} for millions of citizens.
+
+\textbf{AXin (PLC) } \raggedright Contributed to automation and analytics platforms for telecom and data centers, enhancing hardware management and performance tracking.
+
+
+\end{rSection}
+
+
+
+
+
+
+\end{document}
